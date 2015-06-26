@@ -29,3 +29,6 @@
 Недорогой, качественный, красивый, удобный и это все - Ridgeback Scoot.
 
 [![Прогулка на беговеле Ridgeback Scoot](http://img.youtube.com/vi/Vc9UdSC-KmY/0.jpg)](http://www.youtube.com/watch?v=Vc9UdSC-KmY)
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Vc9UdSC-KmY" frameborder="0" allowfullscreen></iframe>
